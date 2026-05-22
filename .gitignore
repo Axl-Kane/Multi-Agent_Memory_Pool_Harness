@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
+
+# Private raw chats (if any)
+_PrivateRawChats/
